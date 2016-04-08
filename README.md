@@ -1,0 +1,1 @@
+# Responsive 1 페이지 HTML 탬플릿
